@@ -29,7 +29,7 @@ for i in {1..10}; do play -q -n -t alsa -v 0.1 synth 0.5 sin 1000; sleep 0.2; do
 
 Command to read text
 ```
-espeak -g 5 "hello bob"
+espeak -p 15 -g 4 -s 140 "I am now self aware"
 ```
 <br><br>
 
