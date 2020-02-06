@@ -5,15 +5,15 @@ general audio processing or commands
 
 
 ### Package to play beeps
-sudo apt install sox
+```sudo apt install sox```
 <br>  
 
 ### Package to play all music format
-sudo apt install libsox-fmt-all
+```sudo apt install libsox-fmt-all```
 <br>  
 
 ### Package to read test
-sudo apt install espeak
+```sudo apt install espeak```
 <br><br>
 
 
