@@ -33,3 +33,12 @@ espeak -p 15 -g 4 -s 140 "I am now self aware"
 ```
 <br><br>
 
+List all input devices  
+```pacmd list-sources```  
+
+Commad to mute/unmute  
+`pacmd set-source-mute <device index> <mute boolean>`  
+```pacmd set-source-mute 1 0```
+
+
+
