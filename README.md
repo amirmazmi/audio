@@ -20,7 +20,7 @@ general audio processing or commands
 ## Examples
 Command to play beeping songs
 ```
-play -q -n -t alsa synth 0.5 sin 1000
+play -q -n -t alsa synth 0.5 sin 1000 vol 0.7
 ```
 ```
 for i in {1..10}; do play -q -n -t alsa -v 0.1 synth 0.5 sin 1000; sleep 0.2; done
