@@ -2,7 +2,9 @@
 general audio processing or commands
 <br><br>
 
-
+### list playback devices 
+```sudo aplay -l```
+<br><br>
 
 ### Package to play beeps
 ```sudo apt install sox```
